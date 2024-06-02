@@ -1,0 +1,3 @@
+1;Factory A;WORKING;4.2
+2;Factory B;NOT_WORKING;3.7
+3;Factory C;WORKING;4.5
