@@ -1,11 +1,12 @@
 package beans;
 
-enum StockStatus {
-    IN_STOCK,
-    OUT_OF_STOCK;
-}
-
 public class Chocolate{
+
+	public enum StockStatus {
+	    IN_STOCK,
+	    OUT_OF_STOCK;
+	}
+	
 	private String id;
 	private String name;
 	private double price;
